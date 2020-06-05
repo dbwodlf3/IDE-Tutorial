@@ -73,6 +73,9 @@ Pane 내에서 탭 이동하기
 
 #### Basic 2 => 편집
 
+Wordwrap
+- Alt + Z
+
 빠른 주석 토글
 - Ctrl + /
 
